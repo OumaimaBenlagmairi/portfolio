@@ -1,0 +1,50 @@
+Index.html
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Oumaima Benlagmairi - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Oumaima Benlagmairi</h1>
+    <p>Business Analyst | Transformation Digitale | Data</p>
+    <nav>
+      <a href="#about">À propos</a>
+      <a href="#projects">Projets</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>À propos</h2>
+      <p>Ingénieure généraliste diplômée, avec un master en gestion de projet et une spécialisation en transformation digitale. Passionnée par l'innovation, la data et l'optimisation des processus métiers.</p>
+      <p><a href="CV_Oumaima_Benlagmairi.pdf" target="_blank">📄 Voir mon CV</a></p>
+    </section>
+
+    <section id="projects">
+      <h2>Projets</h2>
+      <ul>
+        <li><strong>Transformation Digitale - IDEMIA :</strong> Mise en place de tableaux de bord et KPIs pour la gouvernance projet.</li>
+        <li><strong>Safran Seats :</strong> Analyse de flux industriels et gestion des risques via VSM.</li>
+        <li><strong>AgroAM :</strong> Supervision IoT pour frigos industriels.</li>
+      </ul>
+      <p>🔗 <a href="https://github.com/OumaimaBenlagmairi" target="_blank">Voir mon GitHub</a></p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email : <a href="mailto:ouaima.bengmairi@example.com">ouaima.bengmairi@.com</a></p>
+      <p>LinkedIn : <a href="https://linkedin.com/in/oumaimabenlagmairi" target="_blank">Profil LinkedIn</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Oumaima Benlagmairi</p>
+  </footer>
+</body>
+</html>
