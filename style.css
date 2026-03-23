@@ -102,3 +102,6 @@ footer {
 #missions li {
   margin-bottom: 10px;
 }
+body {
+  background-color: red;
+}
