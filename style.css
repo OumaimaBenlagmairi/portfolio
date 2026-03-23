@@ -55,7 +55,7 @@ section {
 
 h2 {
   margin-bottom: 15px;
-  color: #1f3c88;
+  color: #7b1e3a;
 }
 
 /* CARDS */
@@ -69,13 +69,13 @@ h2 {
 }
 
 .card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  border-left: 4px solid #7b1e3a;
+
 }
 
 /* LINKS */
 a {
-  color: #2a5298;
+  color: #7b1e3a;
 }
 
 a:hover {
