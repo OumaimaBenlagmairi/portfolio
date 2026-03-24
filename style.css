@@ -15,10 +15,11 @@ body {
 
 /* HEADER */
 header {
-  background: linear-gradient(120deg, #4d4d4d, #6d6d6d); /* gris moyen / clair */
+  background: linear-gradient(120deg, #5e5e5e, #808080);
   color: white;
   text-align: center;
   padding: 40px 20px;
+
 }
 
 header h1 {
